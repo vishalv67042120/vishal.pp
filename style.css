@@ -1,0 +1,9 @@
+h1{
+    border: 5px double rgba(231, 255, 47, 0.713);
+     box-shadow:2px 3px 8px 20px greenyellow;
+     text-align: center;
+     color: chocolate;
+}
+.box{
+    border-radius: 50px;
+}
